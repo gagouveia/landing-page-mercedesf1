@@ -20,7 +20,7 @@ html {
 
 body {
     overflow: hidden;
-    background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url(assets/aus_2022_desktop_6.png);
+    background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url(../assets/aus_2022_desktop_6.png);
     background-position: center center;
     background-size: cover;
     background-position-y: 0px;
